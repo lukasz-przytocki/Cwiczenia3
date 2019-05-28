@@ -29,7 +29,7 @@ public class Problem {
 
         for (int i=0;i<array.length;i++) {
 
-            array[i] = rand.nextInt(1000);
+            array[i] = rand.nextInt(1000 );
 
         }
 
